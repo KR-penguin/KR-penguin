@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KR-penguin
 - 👀 I’m interested in make game by unreal engine.
-- 🌱 I’m currently learning make game by unreal engine.
-- 💞️ I’m collaborating with my friend minecoding.
+- 🌱 I’m currently making games by unreal engine.
 - 📫 How to reach me e-mail : chope2020@naver.com
 
 <!---
